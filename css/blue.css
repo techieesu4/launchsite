@@ -1,0 +1,51 @@
+
+a,
+.home-page h1,
+.social-shear a i,
+.service-aro-icon,
+.service i,
+.member span{
+	color: #00b9f7;
+}
+
+.subscribe-area .form-control,
+.submit-bt,
+.social-shear a i,
+.service i,
+.member .member-img img,
+.contact-form .submit-button,
+.contact-form .form-control{
+	border-color: #00b9f7;
+}
+
+.submit-bt,
+.social-shear a:hover i,
+.service-aro-left,
+.service-aro-right,
+.service:hover i,
+.member-social .facebook-icon i,
+.member-social .twitter-icon i,
+.member-social .linkedin-icon i,
+.contact-form .submit-button{
+	background: #00b9f7;
+}
+
+a:hover{
+	color: #1FA3FF;
+}
+
+.submit-bt:hover,
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary{
+	border-color: #1FA3FF;
+}
+
+.member-social .facebook-icon i:hover,
+.member-social .twitter-icon i:hover,
+.member-social .linkedin-icon i:hover,
+.submit-bt:hover,
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary{
+	background: #1FA3FF;
+}
+
+
+
