@@ -88,12 +88,14 @@
 		background-position: 50% 0;
 		background-repeat: no-repeat;
 		background-size: cover;
+		height:100%;
 	}
 
 	.home-bg{
 		background: rgba(0, 0, 0, 0.7);
 		padding-top: 100px;
 		padding-bottom: 100px;
+		height:100%;
 	}
 
 	.main-logo {
